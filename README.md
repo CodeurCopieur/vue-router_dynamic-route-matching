@@ -1,4 +1,10 @@
-# vue-router_dynamic-route-matching
+# vue router dynamic route matching
+
+Vue Router
+segments d'URL de manière dynamique
+parcourir les pages
+sans rafraîchissement de la page
+crée un couplage avec l'itinéraire
 
 ## Project setup
 ```
